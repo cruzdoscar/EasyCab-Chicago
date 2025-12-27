@@ -1,3 +1,4 @@
+-- Solicitud para obtener el número de viajes para cada empresa del 15 al 16 de noviembre
 SELECT 
     c.company_name,
     COUNT(t.trip_id) AS trips_amount
