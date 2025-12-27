@@ -1,4 +1,4 @@
-Una base de datos con información sobre viajes en taxi en Chicago:
+Base de datos con información sobre viajes en taxi en Chicago:
 
 1. tabla `neighborhoods`: datos sobre los barrios de la ciudad
 
