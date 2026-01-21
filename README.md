@@ -1,7 +1,7 @@
 # Análisis de Patrones de Transporte y Clima
 
 ## Descripción del Proyecto
-Este proyecto consiste en un análisis integral de la empresa de viajes compartidos **Zuber** en Chicago. El objetivo es identificar patrones en las preferencias de los pasajeros y entender cómo factores externos, específicamente el clima, impactan la frecuencia y duración de los viajes.
+Este proyecto consiste en un análisis integral de la empresa de viajes compartidos **EasyCab** en Chicago. El objetivo es identificar patrones en las preferencias de los pasajeros y entender cómo factores externos, específicamente el clima, impactan la frecuencia y duración de los viajes.
 
 Este repositorio es una muestra de mis habilidades en **Minería de Datos (Web Scraping)**, **SQL Avanzado** y **Prueba de Hipótesis con Python**.
 
